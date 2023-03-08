@@ -16,6 +16,7 @@ index:
 - azure-ad-pim
 - group-managed-service-account-gmsa
 - remote-desktop-manager
+- windows-admin-center
 - do-you-always-install-latest-updates-when-you-fix-someone-elses-pc
 - monitor-the-uptimes-of-all-your-servers-daily
 - do-you-know-the-pros-and-cons-of-joining-the-domain
@@ -28,6 +29,7 @@ index:
 - have-a-companywide-word-template
 - label-your-assets
 - print-server
+- automate-patch-management
 ---
 
 System Administrators (SysAdmins) are the lifeblood of any business. They mantain the infrastructure, networks and systems and cloud of businesses. This is why we have developed these standards for better System Administrators.

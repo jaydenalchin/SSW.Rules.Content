@@ -4,12 +4,13 @@ title: Rules to Better Software Consultants - Working in a Team
 guid: 99fb319c-14d5-482f-bf74-b851a56cebb0
 uri: rules-to-better-software-consultants-working-in-a-team
 index:
-- do-you-know-rules-are-made-for-the-guidance-of-wise-men-and-the-obedience-of-fools
+- continual-improvement
 - professional-integrity
 - professional-integrity-tools
+- strong-suits
 - do-you-manage-up
 - do-you-know-the-5-dysfunctions-of-a-team
-- do-you-know-the-5-pillars-of-teamwork
+- teamwork-pillars
 - chase-the-product-owner-for-clarification
 - work-in-order-of-importance-aka-priorities
 - 4-quadrants-important-and-urgent
@@ -74,6 +75,7 @@ index:
 - speak-up
 - the-happiness-equation
 - build-inter-office-interaction
+- efficiency-do-you-always-try-to-work-in-pairs
 
 ---
  

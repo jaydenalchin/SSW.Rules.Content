@@ -6,6 +6,13 @@ uri: rules-to-better-communication
 index:
 - follow-up-effectively
 - catering-to-audience
+- zooming-in-and-out
+- ask-for-help
+- document-discoveries
+- defining-pbis
+- explaining-pbis
+- meaningful-pbi-titles
+- useful-information-on-changes
 - the-best-chat-tools-for-your-employees
 - do-you-have-successful-remote-meetings
 - call-first-before-emailing

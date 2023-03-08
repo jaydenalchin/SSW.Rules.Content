@@ -26,6 +26,7 @@ related:
   - do-you-refer-to-the-reader-and-author-consistently-throughout-your-document
   - tiny-do-you-use-active-phrases-no-zombies-please
   - user-journey-mapping
+  - package-audit-log
 redirects:
   - do-you-review-the-documentation
   - do-you-make-awesome-documentation
@@ -103,6 +104,7 @@ This style of documentation is used by modern teams who are Agile only.
 * Coding patterns followed (e.g. [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture))
 * 3rd party libraries used 
 * 3rd party services used 
+* A link to all [package-audit-logs](/package-audit-log)
 
 **6. _docs\Alterative-Solutions-Considered.md** – explains other options that were discounted. For example
   * We chose to use a code-centric .NET solution over a low code solution because we did not want to be locked into any specific vendor e.g. Dynamics, Outsystems.
@@ -110,7 +112,7 @@ This style of documentation is used by modern teams who are Agile only.
   * We chose to use Azure over on-premises to avoid procurement of costly servers.
   * Note: If you decide that after the fact that the chosen solution is wrong, this should be explained. Include what led to the current circumstances and if there is a planned change.
 
-**7. _docs\Definition-of-Done.md** - Ensures that your team [maintains a high level of quality with a Definition of Done](/done-do-you-go-beyond-done-and-follow-a-definition-of-done)
+**7. _docs\Definition-of-Done.md** - Ensures that your team [maintains a high level of quality with a Definition of Done](/definition-of-done)
 
 **8. _docs\Definition-of-Ready.md** – Ensures that all your PBIs are well defined to an agreed standard before adding them to a sprint (see [https://rules.ssw.com.au/have-a-definition-of-ready](/have-a-definition-of-ready))
 
@@ -192,7 +194,7 @@ E.g.
 [Updated]
 Enter search text and automatically see the results populate below.
 
-This should be added to the        [Definition of Done](/done-do-you-go-beyond-done-and-follow-a-definition-of-done).
+This should be added to the        [Definition of Done](/definition-of-done).
 
 
 ![Technical Debt](Debt.jpg)
@@ -210,4 +212,4 @@ We can choose to continue paying the interest, or we can pay the debt in full by
 
 The same principle is true with documentation. Using the 'old school' method will leave you with a build-up of documentation that you will need to keep up to date as the project evolves.
 
-Warning: if you want to follow Scrum and have zero technical debt, then you must throw away all documentation at the end of each sprint. If you do want to keep it, make sure you add it to your [definition of done](/done-do-you-go-beyond-done-and-follow-a-definition-of-done) to keep it updated.
+Warning: if you want to follow Scrum and have zero technical debt, then you must throw away all documentation at the end of each sprint. If you do want to keep it, make sure you add it to your [definition of done](/definition-of-done) to keep it updated.

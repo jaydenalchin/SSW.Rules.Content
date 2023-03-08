@@ -1,8 +1,7 @@
 ---
 type: rule
-title: Do you create a Sprint Forecast? (aka The functionality that will be
-  developed during the Sprint)
-uri: do-you-create-a-sprint-forecast-aka-the-functionality-that-will-be-developed-during-the-sprint
+title: Do you create a Sprint Forecast? (aka The functionality that will be developed during the Sprint)
+uri: sprint-forecast
 authors:
   - title: Adam Cogan
     url: https://ssw.com.au/people/adam-cogan
@@ -30,11 +29,11 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 ::: email-template
 |          |     |
 | -------- | --- |
-| To:      | [Product Owner] |
-| Subject: | &lt;Client Name&gt;: Sprint XXX Forecast |
+| To:      | {{Product Owner}} |
+| Subject: | {{Client Name}}: Sprint XXX Forecast |
 ::: email-content  
 
-### Hi &lt;Product Owner&gt;,
+### Hi {{Product Owner}},
 
 Sprint Goals (in priority order):
 
@@ -45,14 +44,14 @@ Sprint Goals (in priority order):
 
 Please see below for a more detailed breakdown of the upcoming Sprint:
 
-| **Current Sprint:**    | **&lt;Sprint Number&gt;**      |
+| **Current Sprint:**    | **{{Sprint Number}}**      |
 | ---------------------- | ------------------------------ |
-| Sprint Duration:       | &lt;Number of weeks&gt;        |
-| Project:               | &lt;Project Name&gt;           |
-| Project Portal:        | &lt;Link to project Portal&gt; |
-| Product Owner:         | &lt;Product Owner Name&gt;     |
-| Sprint Review Meeting: | &lt;Date and Time&gt;          |
-| Attendees:             | &lt;Names of Attendees&gt;     |
+| Sprint Duration:       | {{Number of weeks}}        |
+| Project:               | {{Project Name}}           |
+| Project Portal:        | {{Link to project Portal}} |
+| Product Owner:         | {{Product Owner Name}}     |
+| Sprint Review Meeting: | {{Date and Time}}          |
+| Attendees:             | {{Names of Attendees}}     |
 
 As per our Sprint Planning Meeting, and as the Product Owner, you have agreed to the following Product Backlog Items (PBIs) being included in the current sprint backlog.
 
@@ -71,7 +70,7 @@ The Team will do its best to deliver this set of features (Scope), to a defined 
 :::
 :::
 ::: good
-Figure: Good Example - copy this as email template and send to Product Owner
+Figure: Good example - copy this as email template and send to Product Owner
 :::
 
 **Tip:** Use this [Outlook email template](https://github.com/SSWConsulting/SSW.Rules.Content/raw/main/rules/do-you-create-a-sprint-forecast-aka-the-functionality-that-will-be-developed-during-the-sprint/SprintContract.oft)
